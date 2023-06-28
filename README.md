@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
 </p>
 #### (No setvar command, must set vars manually from settings)
-<a href="https://railway.app/template/-MFl8A?referralCode=8jawMH" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
+<a href="https://railway.app/template/IBpkp-?referralCode=8jawMH" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
 
 ## Gojo-Satoru
 
